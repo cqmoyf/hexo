@@ -1,6 +1,6 @@
 title: Mac下搭建Hexo博客教程
 date: 2016-04-26 17:19:58
-tags: [Hexo,Github]
+tags: [Hexo,Github，]
 categories:
 ---
 1. 安装Git   
